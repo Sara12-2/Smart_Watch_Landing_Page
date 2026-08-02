@@ -4,11 +4,59 @@ A modern, responsive, and production-ready smartwatch e-commerce landing page bu
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 https://smart-watch-landing-page-gules.vercel.app/
 
 ---
+
+## Screenshots
+
+### Home Page
+
+![Home Light](Screenshots/home_light.png)
+
+![Home Dark](Screenshots/home_dark.png)
+
+---
+
+### Shop Page
+
+![Shop Light](Screenshots/shop_light.png)
+
+![Shop Dark](Screenshots/shop_dark.png)
+
+---
+
+### Pricing Page
+
+![Pricing Light](Screenshots/pricing%20light.png)
+
+![Pricing Dark](Screenshots/pricing%20dark.png)
+
+---
+
+### Why Choose Us Section
+
+![Why Choose Us Light](Screenshots/Why%20choose%20us%20light.png)
+
+![Why Choose Us Dark](Screenshots/Why%20choose%20us%20dark.png)
+
+---
+
+### Testimonials Section
+
+![Testimonials Light](Screenshots/testimonials%20light.png)
+
+![Testimonials Dark](Screenshots/tertimonials%20dark.png)
+
+---
+
+### Footer
+
+![Footer Light](Screenshots/footer%20light.png)
+
+![Footer Dark](Screenshots/footer_dark.png)
 
 ## ✨ Features
 
